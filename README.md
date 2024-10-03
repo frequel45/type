@@ -1,3 +1,40 @@
+# ReactFlow Meal Explorer
+
+This project is a React-based application using `ReactFlow`, `TypeScript`, and `TailwindCSS` to explore meals, categories, and ingredients fetched from a meal API. The application allows users to click through meal categories and get details on various meals.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- **Node.js** (version 16 or later): [Download here](https://nodejs.org/)
+- **npm** or **Yarn** package manager.
+
+## Getting Started
+
+### 1. Clone the repository
+
+ 
+git clone https://github.com/frequel45/type.git
+cd type
+
+
+ 
+
+2) Install dependencies: 
+
+Open the terminal 
+
+run command: npm install
+
+3) Running in localhost:
+   
+ In terminal: 
+ 
+run command: npm run dev
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
